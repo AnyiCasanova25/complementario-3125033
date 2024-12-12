@@ -1,0 +1,58 @@
+Database, Porcentaje
+MySQL,46.85%
+PostgreSQL,43.59%
+Microsoft SQL Server,36.5%
+MongoDB,28.3%
+Redis,26.7%
+Elasticsearch,22.5%
+SQLite,20.4%
+Oracle Database,15.8%
+MariaDB,15.3%
+Cassandra,12.4%
+MongoDB Atlas,11.5%
+CockroachDB,9.3%
+IBM DB2,8.6%
+Planetscale,7.9%
+Neo4j,7.2%
+Microsoft Access,7.0%
+ClickHouse,6.8%
+IBM Cloudant,6.5%
+DynamoDB,6.2%
+TimescaleDB,5.8%
+ArangoDB,5.4%
+FaunaDB,5.2%
+InfluxDB,5.1%
+FoundationDB,4.9%
+RavenDB,4.7%
+YugabyteDB,4.5%
+HBase,4.4%
+RethinkDB,4.3%
+Pinecone,4.2%
+Couchbase,4.0%
+Firebase,3.9%
+Firebase Firestore,3.8%
+Xano,3.7%
+Singlestore,3.6%
+SurrealDB,3.5%
+ClickHouse Cloud,3.3%
+Tarantool,3.2%
+Redshift,3.0%
+PlanetScale,2.9%
+Zookeeper,2.8%
+TiDB,2.7%
+Snowflake,2.5%
+Weaviate,2.4%
+Dgraph,2.3%
+EdgeDB,2.2%
+SQLite3,2.1%
+Memgraph,2.0%
+PouchDB,1.9%
+Berkeley DB,1.8%
+Vertica,1.7%
+CouchDB,1.6%
+H2 Database,1.5%
+GraphDB,1.4%
+SQLite in-memory,1.3%
+Timescale,1.2%
+Datastax,1.1%
+AlpineDB,1.0%

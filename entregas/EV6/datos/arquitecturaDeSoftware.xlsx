@@ -1,0 +1,53 @@
+Arquitectura, Porcentaje
+Layered Architecture, 25
+Microservices, 20
+Client-Server, 15
+Event-Driven, 10
+Service-Oriented, 8
+Monolithic, 7
+RESTful, 5
+Peer-to-Peer, 4
+Model-View-Controller, 3
+N-Tier, 2
+CQRS, 1.8
+Serverless, 1.5
+Command and Query Responsibility Segregation, 1.3
+Hexagonal Architecture, 1.2
+Space-Based Architecture, 1.2
+Batch Processing, 1.1
+Pipes and Filters, 1
+Broker Architecture, 1
+Microkernel Architecture, 1
+Service Mesh, 0.9
+Mobile-Backend-as-a-Service, 0.9
+Cloud-Native, 0.9
+Service Component Architecture, 0.9
+Aspect-Oriented, 0.8
+Actor Model, 0.8
+Self-Contained Systems, 0.8
+Web-Oriented Architecture, 0.8
+Resource-Oriented Architecture, 0.7
+Enterprise Service Bus, 0.7
+Shared Nothing, 0.7
+Automated Workflow, 0.6
+Transactional, 0.6
+Hierarchical, 0.6
+Tuple Spaces, 0.6
+Metamodel, 0.5
+Dynamic Adaptive, 0.5
+Reflection, 0.5
+Virtual Machine, 0.5
+Layered Queues, 0.4
+Edge Architecture, 0.4
+Event Streaming, 0.4
+Federated, 0.4
+Interpreter, 0.3
+Interpreter Model, 0.3
+Blackboard, 0.3
+Publish-Subscribe, 0.3
+Data-Centric Architecture, 0.2
+Integrate Anything Architecture, 0.2
+Cloud Automation, 0.2
+Pattern-Driven Architecture, 0.2
+RESTful-Serverless Hybrid, 0.1
+State Machine, 0.1

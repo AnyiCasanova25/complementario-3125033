@@ -1,0 +1,86 @@
+Servidores ,Porcentaje
+Nginx,33.8%
+Apache,28.3%
+Cloudflare Server,22.6%
+LiteSpeed,14.0%
+Microsoft-IIS,4.3%
+Node.js,3.8%
+Envoy,1.0%
+Google Servers,0.8%
+Caddy,0.3%
+IdeaWebServer,0.1%
+Tengine,0.1%
+Cowboy,0.1%
+Kestrel,0.1%
+ArvanNginx,0.1%
+OpenResty,8.1%
+Apache Traffic Server,0.2%
+Tomcat,0.4%
+Zope,0.1%
+UploadServer,0.1%
+Lighttpd,0.1%
+Oracle Servers,0.1%
+Resin,0.1%
+Uvicorn,0.1%
+Undertow,0.1%
+HCL Domino,0.1%
+Jetty,0.1%
+Hiawatha,0.1%
+WildFly,0.1%
+PxShield,0.1%
+micro_httpd,0.1%
+WSGIserver,0.1%
+Kangle,0.1%
+IceWarp,0.1%
+OpenBSD httpd,0.1%
+WEBrick,0.1%
+Zeus,0.1%
+Tornado,0.1%
+vWebServer,0.1%
+Thin,0.1%
+H2O,0.1%
+Waitress,0.1%
+Abyss,0.1%
+NaviServer,0.1%
+IBM Servers,0.1%
+CherryPy,0.1%
+Roxen,0.1%
+Mongrel,0.1%
+Twisted,0.1%
+NetWeaver Application Server,0.1%
+SimpleHTTPServer,0.1%
+thttpd,0.1%
+Akka HTTP,0.1%
+Cherokee,0.1%
+AOLserver,0.1%
+Paste WSGI HTTP Server,0.1%
+Caudium,0.1%
+Yaws,0.1%
+WebSTAR,0.1%
+nghttpx,0.1%
+RomPager,0.1%
+CL-HTTP,0.1%
+Jexus,0.1%
+RaidenHTTPD,0.1%
+SAP J2EE Engine,0.1%
+WebToB,0.1%
+Hunchentoot,0.1%
+Virtuoso,0.1%
+AllegroServe,0.1%
+BaseHTTPServer,0.1%
+Orion,0.1%
+Wildcat,0.1%
+Zero Server,0.1%
+Barracuda Server,0.1%
+BlueDragon,0.1%
+Gatling,0.1%
+Lwan,0.1%
+nxweb,0.1%
+Xitami,0.1%
+KeyFocus,0.1%
+Mathopd,0.1%
+Ada Web Server,0.1%
+FAPWS,0.1%
+Inets,0.1%
+Monkey,0.1%
+WebHare,0.1%
